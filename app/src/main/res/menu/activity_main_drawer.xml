@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item tools:ignore="ExtraText"
+            android:title="@string/dark_mode"
+            android:id="@+id/darkMode"
+            android:icon="@drawable/dark"
+            >
+        </item>
+        <item android:title="@string/light_mode"
+            android:id="@+id/lightMode"
+            android:icon="@drawable/light"
+            >
+        </item>
+
+    </group>
+       <item android:title="@string/headlines" android:icon="@drawable/headings">
+           <menu>
+               <item android:title="@string/india"
+                   android:id="@+id/india"
+                   >
+               </item>
+               <item
+                   android:id="@+id/usa"
+                   android:title="@string/usa"
+                   >
+
+               </item>
+               <item
+                   android:id="@+id/australia"
+                   android:title="@string/australia">
+
+               </item>
+               <item
+                   android:id="@+id/uk"
+                   android:title="@string/united_kingdom">
+               </item>
+               <item
+                   android:id="@+id/russia"
+                   android:title="@string/russia">
+               </item>
+               <item
+                   android:id="@+id/france"
+                   android:title="@string/france">
+               </item>
+           </menu>
+       </item>
+    <item android:title="@string/health">
+        <menu>
+            <item
+                android:id="@+id/india_h"
+                android:title="India"
+                >
+
+            </item>
+            <item
+                android:id="@+id/usa_h"
+                android:title="@string/usa"
+                >
+
+            </item>
+            <item
+                android:id="@+id/australia_h"
+                android:title="@string/australia">
+
+            </item>
+            <item
+                android:id="@+id/uk_h"
+                android:title="@string/united_kingdom">
+            </item>
+            <item
+                android:id="@+id/russia_h"
+                android:title="@string/russia">
+            </item>
+            <item
+                android:id="@+id/france_h"
+                android:title="@string/france">
+            </item>
+        </menu>
+    </item>
+    <item android:title="@string/science">
+        <menu>
+            <item android:title="@string/india"
+                android:id="@+id/india_s"
+                >
+
+            </item>
+            <item
+                android:id="@+id/usa_s"
+                android:title="@string/usa"
+                >
+
+            </item>
+            <item
+                android:id="@+id/australia_s"
+                android:title="@string/australia">
+
+            </item>
+            <item
+                android:id="@+id/uk_s"
+                android:title="@string/united_kingdom">
+            </item>
+            <item
+                android:id="@+id/russia_s"
+                android:title="@string/russia">
+            </item>
+            <item
+                android:id="@+id/france_s"
+                android:title="@string/france">
+            </item>
+        </menu>
+    </item>
+    <item android:title="@string/technology">
+        <menu>
+            <item android:title="@string/india"
+                android:id="@+id/india_t"
+                >
+
+            </item>
+            <item
+                android:id="@+id/usa_t"
+                android:title="@string/usa"
+                >
+
+            </item>
+            <item
+                android:id="@+id/australia_t"
+                android:title="@string/australia">
+
+            </item>
+            <item
+                android:id="@+id/uk_t"
+                android:title="@string/united_kingdom">
+            </item>
+            <item
+                android:id="@+id/russia_t"
+                android:title="@string/russia">
+            </item>
+            <item
+                android:id="@+id/france_t"
+                android:title="@string/france">
+            </item>
+        </menu>
+    </item>
+    <item android:title="Channels">
+        <menu>
+            <item android:title="BBC News"
+                android:id="@+id/bbc"
+                >
+
+            </item>
+            <item
+                android:id="@+id/cnn"
+                android:title="CNN"
+                >
+
+            </item>
+            <item
+                android:id="@+id/fox"
+                android:title="Fox News">
+
+            </item>
+            <item
+                android:id="@+id/google"
+                android:title="Google News">
+            </item>
+        </menu>
+    </item>
+
+</menu>

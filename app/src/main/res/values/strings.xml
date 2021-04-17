@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Alerts</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="headlines">Headlines</string>
+    <string name="india">India</string>
+    <string name="usa">USA</string>
+    <string name="australia">Australia</string>
+    <string name="united_kingdom">United Kingdom</string>
+    <string name="russia">Russia</string>
+    <string name="france">France</string>
+    <string name="health">Health</string>
+    <string name="usa1">USA</string>
+    <string name="australia1">Australia</string>
+    <string name="united_kingdom1">United Kingdom</string>
+    <string name="russia1">Russia</string>
+    <string name="france1">France</string>
+    <string name="science">Science</string>
+    <string name="india1">India</string>
+    <string name="usa2">USA</string>
+    <string name="australia2">Australia</string>
+    <string name="united_kingdom2">United Kingdom</string>
+    <string name="russia2">Russia</string>
+    <string name="france2">France</string>
+    <string name="technology">Technology</string>
+    <string name="india3">India</string>
+    <string name="usa3">USA</string>
+    <string name="australia3">Australia</string>
+    <string name="united_kingdom3">United Kingdom</string>
+    <string name="russia3">Russia</string>
+    <string name="france3">France</string>
+    <string name="retry">Retry</string>
+    <string name="opps_no_internet">Opps No Internet!</string>
+</resources>
